@@ -1,0 +1,8 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Задание(Вариант 191)}{2}{section.1}%
+\contentsline {section}{\numberline {2}Вычисления}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}$\displaystyle \DOTSI \intop \ilimits@ \limits _0^6 \genfrac {}{}{}0{x^2-3x-5}{x^2+2x+4}\,dx=-2.270595273947305$}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}$\displaystyle \DOTSI \intop \ilimits@ \limits _0^5 \sqrt {\qopname \relax o{sin}\genfrac {}{}{}0{x}{4}}\,dx=3.52040903029251$}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}$\displaystyle \DOTSI \intop \ilimits@ \limits _0^{2\pi } \sqrt {7-5\qopname \relax o{cos}x}\,dx=16.01001897674756$}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}$\displaystyle \DOTSI \intop \ilimits@ \limits _0^\infty \genfrac {}{}{}0{5+3x}{1+2x^5+4x^6}\,dx$}{9}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Листинг функций и сценариев}{11}{section.3}%
